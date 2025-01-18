@@ -782,7 +782,7 @@ For information on contributing to this project, please see the [contributing gu
 | [Drupal.org](https://www.drupal.org/drupalorg/docs/api) | Drupal.org                     |    No    |  Yes  | Unknown |
 |   [Evil Insult Generator](https://evilinsult.com/api)   | Evil Insults                   |    No    |  Yes  |   Yes   |
 |        [Libraries.io](https://libraries.io/api)         | Open source software libraries | `apiKey` |  Yes  | Unknown |
-
+|       [OpenCV](https://github.com/opencv/opencv)        | Open source computer vision    |    No    |  Yes  |   Yes   |
 **[⬆ Back to Index](#index)**
 
 ### Patent
